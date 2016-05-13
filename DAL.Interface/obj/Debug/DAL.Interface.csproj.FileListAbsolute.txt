@@ -1,0 +1,5 @@
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\DAL.Interface\bin\Debug\DAL.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\DAL.Interface\bin\Debug\DAL.Interface.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\DAL.Interface\obj\Debug\DAL.Interface.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\DAL.Interface\obj\Debug\DAL.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\DAL.Interface\obj\Debug\DAL.Interface.pdb

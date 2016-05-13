@@ -1,0 +1,5 @@
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL.Interface\bin\Debug\BLL.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL.Interface\bin\Debug\BLL.Interface.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL.Interface\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL.Interface\obj\Debug\BLL.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL.Interface\obj\Debug\BLL.Interface.pdb

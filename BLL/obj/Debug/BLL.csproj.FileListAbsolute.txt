@@ -1,0 +1,13 @@
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\BLL.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\BLL.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\AmbientDbContext.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\BLL.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\DAL.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\ORM.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\AmbientDbContext.Interface.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\BLL.Interface.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\DAL.Interface.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\bin\Debug\ORM.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\obj\Debug\BLL.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\BLL\obj\Debug\BLL.pdb

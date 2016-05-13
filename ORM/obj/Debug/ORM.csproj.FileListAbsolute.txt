@@ -1,0 +1,5 @@
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\ORM\bin\Debug\ORM.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\ORM\bin\Debug\ORM.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\ORM\obj\Debug\ORM.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\ORM\obj\Debug\ORM.pdb

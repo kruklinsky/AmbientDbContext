@@ -1,0 +1,9 @@
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\obj\Debug\AmbientDbContext.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\bin\Debug\AmbientDbContext.cs.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\bin\Debug\AmbientDbContext.cs.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\bin\Debug\AmbientDbContext.Interface.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\bin\Debug\ORM.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\bin\Debug\AmbientDbContext.Interface.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\bin\Debug\ORM.pdb
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\obj\Debug\AmbientDbContext.cs.dll
+c:\users\александр\documents\visual studio 2013\Projects\AmbientDbContext\AmbientDbContext.cs\obj\Debug\AmbientDbContext.cs.pdb
